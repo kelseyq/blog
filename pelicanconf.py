@@ -38,9 +38,17 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 THEME = "./themes/SoMA2"
 MD_EXTENSIONS = ['codehilite(linenums = True)']
+PLUGIN_PATHS = ['/Users/hbic/code/pelican-plugins']
+PLUGINS = ['read_more_link', 'share_post']
 LOAD_CONTENT_CACHE = False
 
 SITESUBTITLE = "KGI"
 SITETAGLINE = "blog blog blog"
 DISQUS_SITENAME = "kelseynerd"
+TWITTER_USERNAME = "kelseyinnis"
+
+READ_MORE_LINK = '<span>Read more</span>'
+READ_MORE_LINK_FORMAT = '<div class="navButton"><a href="/{url}">{text}</a></div>'
+
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 

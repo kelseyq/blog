@@ -15,7 +15,6 @@ is pretty much endlessly useful, we want to push our Clojure
 non-abilities farther with something a bit more complicated–and what
 could be more complicated than Twitter?
 
-
 We’ll start by making a restful call with the [twitter-api
 library](https://github.com/adamwynne/twitter-api). After running
 `lein new app twitterbot` to set up a project, we’ll need to declare a
