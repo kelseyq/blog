@@ -1,22 +1,17 @@
 Title: Your Job is Political: Tech Money in Politics
-Date: 2014-12-19 8:01
+Date: 2014-12-19 11:49
 
-Tech companies have made a lot of people very rich. A few fortunes have been made through profits off of sales but most of them come from profits from a large "exit event":  an IPO or sale. Profits are split between shareholders, which usually includes some employees but is composed mainly of outside investors, both people and firms. We call early stage investors--who usually take very large percentages of ownership in return for the risk of investing in an unknown--venture capitalists or VCs. When we work at tech companies, our labor is going to grow the investment these people have made. When those investments do pay off, more & more of these obscenely rich people have been spending their money on political campaigns and races. I gave a talk at [JSFest Oakland](http://oakland.jsfest.com/) exploring some of the issues they're spending it on and what we might see in the future; this is the cleaned-up text version of that talk, with sources.
+Tech companies have made a lot of people very rich. A few fortunes have been made through profits off of sales but most of them come from profits from a large "exit event":  an IPO or sale. Profits are split between shareholders, which usually includes some employees but is composed mainly of outside investors, both people and firms. We call early stage investors--who usually take very large percentages of ownership in return for the risk of investing in an unknown--venture capitalists or VCs. When we work at tech companies, our labor is going to grow the investment these people have made. When those investments do pay off, more & more of these obscenely rich people have been spending their money on political campaigns and races. I gave a talk at [JSFest Oakland](http://oakland.jsfest.com/) exploring some of the issues they're spending it on and what we might see in the future; this is the cleaned-up text version of that talk, with [sources](/pages/tech-money-sources.html).
 
-**National spending**
 <a name="national"></a> 
+***National spending*** ([sources](/pages/tech-money-sources.html#national))
 
 There's been an increased wave of spending on national politics from the tech sector. Some of this has gone to straight-up lobbyists hired to advocate on particular issues. Barack Obama and the National Democratic Party have also been big recipients and tech moguls recently spent over $4 million trying to elect Ro Khanna to the House of Representatives for CA's 17th District (covering most of Silicon Valley.) National priorities for the tech industry are H1-B work visa regulations, corporate tax policy, cybersecurity & net neutrality.
 
 I'm not going to cover these issues. Immigration is a bit of a third rail in this industry and I'm not going to touch it here either. Tech corporations want the same thing from taxes as all other corporations: not to pay them. There are other people talking about cybersecurity and net neutrality better and more loudly. Instead, I want to go smaller. Actions on the state and regional level often have more impact on our day to day life, and I believe we will see more of them in the future. So, what does tech money care about on a state and regional level?
 
-* [California tech sector now an inside political player](http://www.sacbee.com/news/politics-government/article2606285.html)
-* immigration: http://mashable.com/2014/11/19/tech-moguls-and-corporations-immigration-reform/
-* lobbying http://recode.net/2014/01/24/tech-spending-on-lobbying-jumps/
-* Ro Khanna: http://www.bizjournals.com/sanjose/news/2014/10/29/charting-the-money-trail-in-7-million-honda-khanna.html?page=all
-* State level trends: http://www.huffingtonpost.com/2014/08/20/facebook-campaign-contributions_n_5692710.html
-
-***Six Californias***
+<a name="sixcalifornias"></a> 
+***Six Californias*** ([sources](/pages/tech-money-sources.html#sixcalifornias))
 
 Six Californias is a plan to split California into 6 states. Small government and all that. It's completely unworkable, which hasn't stopped other California ballot initiatives; after missing the 2014 deadline signatures on it are being gathered again for 2016. Its sole backer is Tim Draper, who poured $5 million to buy 800,000 signatures (just 50,000 or so short) to get it on the ballot. 
 
@@ -26,14 +21,10 @@ Proposition 38 in 2000 (this is not the first time tech investors have been flus
 
 It turns out Draper was, in 2000, fresh off a stint on the state Board of Education. Governor Pete Wilson appointed him in 1998, with his only qualification being the development of a business simulation game for kids--oh, and fundraising for Pete Wilson. The Board of Education sets statewide policy, adopts textbooks, and appoints officials. It's actually quite a bit of power. 
 
-* http://www.businessweek.com/articles/2014-07-31/six-californias-a-tim-draper-idea-just-as-madcap-as-the-others
-* http://www.theverge.com/2013/8/5/4591896/startup-moguls-university-of-heroes-is-a-ba-in-bs
-* http://prospect.org/article/indecent-proposition
-* http://www.cde.ca.gov/be/ms/po/sberesponsibilities.asp
-	
 When Grey Davis, a Democrat, replaced Pete Wilson as governor in 1999, Draper was not reappointed. However...
 
-***Reed Hastings***
+<a name="hastings"></a> 
+***Reed Hastings*** ([sources](/pages/tech-money-sources.html#hastings))
 
 Reed Hastings was appointed to the Board in his place. You likely know Reed Hastings as the CEO of Netflix. He's also on the board of Facebook and was on the board of Microsoft. He was already rich when he founded Netflix from a $750m acquisition of a previous company. He was and is a major Democratic donor and had been a special supporter of then newly elected Governor Davis. Hastings stayed on the Board of Education longer than Draper, through the beginning of Gov Schwarzenegger's term, serving as president of the board for 4 years.
 
@@ -45,13 +36,8 @@ All that just to lower the voting threshold?
 
 Weeeelllll...One provision of Proposition 39 has nothing to do with bond funding. Charter schools are private organizations, both non-profit and for-profit, that run public schools. They receive per-student funding out of taxes. Prop 39 requires that public districts provide charters with space "reasonably equivalent" to those used by non-charter students in the district. They must be identically furnished and located in the area the charter school wants to locate in. LAUSD, among other school districts, has fulfilled this requirement via the controversial practice of colocation--locating a charter school in the same building as a non-charter. This hasn't gone very well and the conflicts have culminated in a drawn out series of lawsuits against the school district by the California Charter Schools Association.
 
-* http://news.cnet.com/Initiatives-VC-backers-get-crash-course-in-politics/2100-1023_3-248312.html
-* http://rainmaker.apps.cironline.org/donors/reed-hastings/
-* http://www.huffingtonpost.com/2013/07/17/charter-school-co-location_n_3613540.html
-* http://www.scpr.org/programs/madeleine-brand/2012/04/30/26252/prop-39/
-* http://www.calcharters.org/2010/09/about-proposition-39.html
-
-***Tech Money and The Charter School Movement***
+<a name="charters"></a> 
+***Tech Money and The Charter School Movement*** ([sources](/pages/tech-money-sources.html#charters))
 
 Guess who's on the board of the CCSA? Reed Hastings. He's also a cofounder of and major investor in Aspire Public Schools, one of California's largest charter providers. Aspire's Board of Directors includes Steve Merrill, a former partner at Benchmark Capital, famous for their huge return off investment in eBay. Hastings serves on the board of the nationwide KIPP charter school network, alongside Viacom CEO Philippe Dauman and longtime Bain Capital managing director Mark Nunnelly. Perhaps his biggest charter school project is the Rocketship K-5 charter network, known for their aggressive growth plans (they run their own real estate development agency to build new school sites.) He serves on Rocketship's national advisory board and is a major investor in the organization. 
 
@@ -65,28 +51,16 @@ Rocketship's tech roots run deep. Their co-founder and longtime CEO John Danner 
 
 There's a *LOT* of money coming from tech (and elsewhere, especially hedge funds and the Walton family) to fund charter schools, despite the frequent marketing of a grassroots charter movement. It's everywhere once you look. Laurene Powell Jobs is spending her inherited Apple fortune on massive grants to charters via her Emerson Collective Education Fund. Hadi Partovi, VC and CEO of code.org, recently gave a big chunk of cash alongside Jeff Bezos' family and Paul Allen to support a measure to establish charter schools in Washington State. Mark Zuckerberg’s $100m to Newark schools focused on charter schools.
 
-* http://educationnext.org/disrupting-the-education-monopoly-reed-hastings-interview/
-* http://aspirepublicschools.org/about/board-directors/
-* http://www.kipp.org/about-kipp/the-kipp-foundation/board-of-directors
-* http://www.whiteboardadvisors.com/news/rocketship-spins-launchpad-development-company
-* http://www.educationdive.com/news/how-is-silicon-valley-shaping-ed-reform/242831/
-* http://www.newyorker.com/magazine/2014/05/19/schooled
+<a name="schoolboards"></a> 
+***$chool Board Races*** ([sources](/pages/tech-money-sources.html#schoolboards))
 
-***$chool Board Races***
-
-What has this money been spent on? Increasingly large sums of it has gone into political campaigns. Lately, charter school advocates have turned their focus from state to local governments, pouring absolutely unprecedented money into school board elections across the country via political action committee (PAC). In Oakland (where this talk was originally delivered) charter school PACs, funded by a mixture of umbrella organizations like the CCSA and direct donations from wealthy investors including Arthur Rock, spent $150,000 on school board races this year after dropping $185,000 in 2012. Anna Song in Santa Clara County, whose opponent wasn't even pro-charter, faced $250,000 worth of PAC mailings attacking her after she voted against a Rocketship charter application. West Contra Costa County saw $350,000 in pro-charter PAC money spent in its school board race this year. This is a 10-20 fold increase over spending in previous school board races, and it's happening all over the country.
+What has this money been spent on? Increasingly large sums of it has gone into political campaigns. Lately, charter school advocates have turned their focus from state to local governments, pouring absolutely unprecedented money into local school board elections across the country via political action committee (PAC). In Oakland (where this talk was originally delivered) charter school PACs, funded by a mixture of umbrella organizations like the CCSA and direct donations from wealthy investors including Arthur Rock, spent $150,000 on school board races this year after dropping $185,000 in 2012. Anna Song in Santa Clara County, whose opponent wasn't even pro-charter, faced $250,000 worth of PAC mailings attacking her after she voted against a Rocketship charter application. West Contra Costa County saw $350,000 in pro-charter PAC money spent in its school board race this year. This is a 10-20 fold increase over spending in previous school board races, and it's happening all over the country.
 
 Winning these races via overwhelming financial power may not be enough to satisfy charter advocates, though. At a CCSA meeting earlier this year, Reed Hastings' said in his keynote speech:
 >"The fundamental problem with school districts is...that they don’t get to control their boards. The importance of the charter school movement is to evolve America from a system where governance is constantly changing.”
 
-* http://www.mercurynews.com/top-stories/ci_21801928/big-money-play-oakland-school-board-campaigns
-* http://www.mercurynews.com/bay-area-news/ci_21896419/
-* http://richmondconfidential.org/2014/10/30/pro-charter-school-pacs-flood-west-contra-costa-school-board-elections-with-spending/
-* http://inthesetimes.com/working/entry/17218/teach_for_america_and_silicon_valley_billionaire_minnesota_school_board
-* http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/04/03/following-the-school-reform-money/
-* http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/03/14/netflixs-reed-hastings-has-a-big-idea-kill-elected-school-boards/
-
-***Follow The Money***
+<a name="followthemoney"></a> 
+***Follow The Money*** ([sources](/pages/tech-money-sources.html#followthemoney))
 
 Why all this spending? I think Hastings dropped a major clue in another speech, this one at the Education Innovation Summit in 2012:
  > “The school district still exists in [90% charter] New Orleans…bringing to town more and more charter school networks. Sort of like a Chamber of Commerce would to develop business. I hope that it will become a long-term model for great education.”
@@ -97,22 +71,14 @@ Ed-tech has grown enormously in the past few years, and the investors funding ch
 
 Doerr is something of a pioneer in ed-tech investment with his NewSchools Venture Fund, a non-profit that funds both non-profit and for-profit edtech ventures. He's also led for-profit investment in companies producing software used in schools like Remind, Coursera, and Duolingo. He has plenty of competition--there are now VC firms dedicated specifically to investing in ed-tech companies, and nearly every major VC firm has at least one ed-tech investment. Ed-tech specific incubators are a new trend, with dozens of programs providing support and access to new ed-tech companies in exchange for a portion of ownership. The size of the K-12 market for ed-tech next year is projected to be nearly $800 billion.
 
-* http://www.forbes.com/sites/jamesmarshallcrotty/2012/05/11/reed-hastings-on-what-it-takes-to-grow-a-20-billion-education-company/
-* https://www.insidehighered.com/news/2014/04/23/ed-tech-sector-swells-can-vendors-deliver-results
-* https://www.edsurge.com/n/2014-09-08-the-adaptive-learning-app-that-john-danner-left-rocketship-to-build
-* http://www.geekwire.com/2013/netflix-ceo-reed-hastings-vc-john-doerr-invest-145m-dreambox-learning/
-* http://www.cnbc.com/id/49125220
-* http://hackeducation.com/2012/10/10/ed-tech-investors/
-* http://www.fastcoexist.com/1681831/need-to-grow-your-edtech-startup-edtech-incubators-are-popping-up-everywhere
-* http://www.thenation.com/article/181762/venture-capitalists-are-poised-disrupt-everything-about-education-market
-
 ***#notAllCharters***
 
 So what? Well, the charter school argument is complex. I'm not going to claim that the over 2 million U.S. students who now attend charter schools are deluded, or that the only benefit of charter schools is to generate customers for ed-tech. However, infrastructure is being privatized under our noses by people openly advocating for less democratic processes in order to serve their own economic interests. Public education--an absolutely critical underpinning to our society--is being reshaped by powerful actors with clear conflicts of interest. I believe that reasonable people can agree or disagree with the charter school approach to education reform but the very ability to have that discussion at all is being usurped. What's more, for those of us working in tech, it's being usurped with money that we generate and I think there's good reason to feel angry about that.
 
 Another important thing to note is something we *know* about tech companies and investors: they imitate. Suddenly everything's daily deals, or ridesharing, or the next flavor of the month. Often you get a Facebook to an earlier Myspace where a model is improved upon and expanded. I want to point out a way I believe this so far quite successful pattern is starting to be applied again.
 
-***Ron Conway***
+<a name="conway"></a> 
+***Ron Conway*** ([sources](/pages/tech-money-sources.html#conway))
 
 No, you weren't going to get 3600 words about tech money in politics without Ron Conway. Ron Conway is an enormously prolific angel inventor. He's made early investments in Airbnb, Google, Paypal, Twitter, Zynga, Facebook, Buzzfeed, Reddit, Pinterest, Mint, Square, and over 650 other tech companies. For a while he was investing in every startup that graduated Y Combinator. Chances are good you've interacted in some way with a Ron Conway investment sometime today.
 
@@ -121,26 +87,14 @@ Perhaps his most impressive purchase to date has been the entire political appar
 After the Sandy Hook tragedy, Conway came out charging towards the worthy goal of reducing gun violence. His activism so far has involved the creation of multiple organizations and events designed to encourage entrepreneurship around gun safety. He has pledged to invest his own money and the money of his friends into companies building products that have to do with guns and gun violence. In his own words, he is looking for "the Mark Zuckerberg or Larry Page innovator for gun safety." Band of Angels partner Ian Sobieski, who is partnering with Conway to kick off a series of $1 million entrepreneur challenges, is even more blunt: 
 >“There is money to be made. Gun violence is expensive to society, and there is a big potential market for solutions.”
 
-* http://www.businessinsider.com/sv-angel-portfolio-2011-2
-* http://www.nytimes.com/2012/04/01/us/as-mayor-edwin-m-lee-cultivates-business-treatment-of-backer-is-questioned.html?pagewanted=all&_r=3&gwh=FFAC0B7F29EE618CDD20727A807C520E&gwt=pay&
-* http://www.cnet.com/news/can-smart-guns-slash-gun-violence-silicon-valley-says-yes/
-
-***"Community" means police***
+<a name="police"></a> 
+***"Community" means police*** ([sources](/pages/tech-money-sources.html#police))
 
 Their first challenge focuses on the huge private gun market, but a later challenge has "community safety" as its mission--"community safety," of course, being a euphemism for policing. It's an area that Conway and friends have some experience in. sf.citi, Conway's political consortium, made a widely publicized $100,000 donation to the San Francisco Police Department. The donation was actually paid out to an sf.citi member company to develop an app. Sobieski is an investor in SST, Inc., formerly known as ShotSpotter. ShotSpotter is a network of microphones used to detect gunfire; the system is sold to dozens of cities around the world (including many in the Bay Area) for hundreds of thousands of dollars per year.
 
 It turns out that despite the company's repeated denials, the ShotSpotter system records voice conversations, not just gunshots. This may very well be a feature, not a bug. After all, Oakland is the planned site of the $11M Domain Awareness Center (DAC), a surveillance hub designed to pull data from public and private sensors and cameras into a centralized data processing center for law enforcement. Public records requests have shown that the DAC's purpose from the beginning covered monitoring of political protest and it is being designed with an eye towards future integration of additional tools and software.
 
 The construction and scope of the DAC is bitterly contested and closely watched by privacy activists around the country as a bellwether for trends in municipal surveillance technology. Potential disruptors, investors, and cash-grabbers are watching too. Among others, Google has reached out to the City of Oakland to pitch their surveillance products for the project. Google's interest would seem to vindicate Conway & others' proclamations that municipal policing is a market waiting to be made.
-
-* http://www.wsj.com/articles/SB10001424127887324392804578358663501313752
-* http://www.forbes.com/sites/netapp/2012/07/25/a-public-private-partnership-turns-san-francisco-police-into-high-tech-super-cops/
-* http://www.nytimes.com/2012/05/29/us/shots-heard-pinpointed-and-argued-over.html?pagewanted=all 
-* http://www.eastbayexpress.com/oakland/shotspotter-lobbied-oakland-officials-in-apparent-violation-of-law/Content?oid=3907581
-* http://sanfrancisco.cbslocal.com/2014/05/21/shooting-crime-privacy-tech-oaklands-shotspotter-equipment-records-voice-conversations/
-* https://localwiki.org/oakland/Domain_Awareness_Center
-* http://www.eastbayexpress.com/oakland/the-real-purpose-of-oaklands-surveillance-center/Content?oid=3789230
-* http://pando.com/2014/03/07/the-google-military-surveillance-complex/
 
 ***Stay Woke, Get Loud***
 
@@ -156,17 +110,11 @@ I originally planned to start this talk with a moment of silence (inspired by [D
 
 Let's start by being better informed. I grew up in SF and my family lives here, so a big chunk of my social network is longtime Bay Area residents of varying levels of civic engagement. Stories about tech money shaping the local landscape circulate through that part of my network quite frequently. For whatever reasons, I rarely see those stories make it through the filter bubble to my tech network. This presentation didn't involve original research; there are many excellent journalists covering these issues. Here's a very incomplete list, with (pretty arbitrary) links to important stories:
 
-* [Susie Cagle](http://susie-c.tumblr.com/) ([@susie_c](https://twitter.com/susie_c))
-    * [How San Francisco sold a majority stake to tech](http://america.aljazeera.com/opinions/2014/11/san-francisco-techindustryhousingtwitterairbnbuber.html)
-* [Kate Conger](http://kateconger.tumblr.com/) ([@kateconger](https://twitter.com/kateconger))
-    * [Politics as Incubator: The Venture Capital Model Finds the Ballot](http://www.sfweekly.com/sanfrancisco/election-issue-2014-ron-conway-sean-parker/Content?oid=3213457)
-* [Darwin Bond Graham](https://darwinbondgraham.wordpress.com/) ([@DarwinBondGraha](https://twitter.com/darwinbondgraha))
-    * [All Tomorrow's Crimes: The Future of Policing Looks a Lot Like Good Branding](http://www.sfweekly.com/2013-10-30/news/predpol-sfpd-predictive-policing-compstat-lapd/) (with [Ali Winston](http://cironline.org/person/ali-winston))
-* Joe Fitzgerald Rodriguez ([@FitzTheReporter](https://twitter.com/fitzthereporter))
-    * [Mission Improbable: City College May Soon Close. And If It Doesn't, It May Never Be the Same. ](http://www.sfweekly.com/sanfrancisco/city-college-san-francisco-community-college-education/Content?oid=3289247)
-* [Audrey Watters](http://audreywatters.com/) ([@audreywatters](https://twitter.com/audreywatters))
-    * [Ed-Tech Year in Review: There’s little to no evidence that more technology or more data-mining will “fix” education.](https://modelviewculture.com/pieces/ed-tech-year-in-review)
-* [Julia Carrie Wong](http://juliacarriewong.com/) ([@juliacarriew](https://twitter.com/juliacarriew))
-    * [Dropbox, Airbnb, and the Fight Over San Francisco’s Public Spaces](http://www.newyorker.com/tech/elements/dropbox-airbnb-fight-san-franciscos-public-spaces)
+* **[Susie Cagle](http://susie-c.tumblr.com/)** ([@susie_c](https://twitter.com/susie_c))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[How San Francisco sold a majority stake to tech](http://america.aljazeera.com/opinions/2014/11/san-francisco-techindustryhousingtwitterairbnbuber.html)
+* **[Kate Conger](http://kateconger.tumblr.com/)** ([@kateconger](https://twitter.com/kateconger))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Politics as Incubator: The Venture Capital Model Finds the Ballot](http://www.sfweekly.com/sanfrancisco/election-issue-2014-ron-conway-sean-parker/Content?oid=3213457)
+* **[Darwin Bond Graham](https://darwinbondgraham.wordpress.com/)** ([@DarwinBondGraha](https://twitter.com/darwinbondgraha))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[All Tomorrow's Crimes: The Future of Policing Looks a Lot Like Good Branding](http://www.sfweekly.com/2013-10-30/news/predpol-sfpd-predictive-policing-compstat-lapd/) (with [Ali Winston](http://cironline.org/person/ali-winston))
+* **Joe Fitzgerald Rodriguez** ([@FitzTheReporter](https://twitter.com/fitzthereporter))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Mission Improbable: City College May Soon Close. And If It Doesn't, It May Never Be the Same. ](http://www.sfweekly.com/sanfrancisco/city-college-san-francisco-community-college-education/Content?oid=3289247)
+* **[Audrey Watters](http://audreywatters.com/)** ([@audreywatters](https://twitter.com/audreywatters))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Ed-Tech Year in Review: There’s little to no evidence that more technology or more data-mining will “fix” education.](https://modelviewculture.com/pieces/ed-tech-year-in-review)
+* **[Julia Carrie Wong](http://juliacarriewong.com/)** ([@juliacarriew](https://twitter.com/juliacarriew))<br/>&nbsp;&nbsp;&nbsp;&nbsp;[Dropbox, Airbnb, and the Fight Over San Francisco’s Public Spaces](http://www.newyorker.com/tech/elements/dropbox-airbnb-fight-san-franciscos-public-spaces)
 	
 Please contribute others in the comments!
