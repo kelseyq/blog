@@ -4,12 +4,13 @@ Date: 2014-12-19 8:01
 Tech companies have made a lot of people very rich. A few fortunes have been made through profits off of sales but most of them come from profits from a large "exit event":  an IPO or sale. Profits are split between shareholders, which usually includes some employees but is composed mainly of outside investors, both people and firms. We call early stage investors--who usually take very large percentages of ownership in return for the risk of investing in an unknown--venture capitalists or VCs. When we work at tech companies, our labor is going to grow the investment these people have made. When those investments do pay off, more & more of these obscenely rich people have been spending their money on political campaigns and races. I gave a talk at [JSFest Oakland](http://oakland.jsfest.com/) exploring some of the issues they're spending it on and what we might see in the future; this is the cleaned-up text version of that talk, with sources.
 
 **National spending**
+<a name="national"></a> 
 
 There's been an increased wave of spending on national politics from the tech sector. Some of this has gone to straight-up lobbyists hired to advocate on particular issues. Barack Obama and the National Democratic Party have also been big recipients and tech moguls recently spent over $4 million trying to elect Ro Khanna to the House of Representatives for CA's 17th District (covering most of Silicon Valley.) National priorities for the tech industry are H1-B work visa regulations, corporate tax policy, cybersecurity & net neutrality.
 
 I'm not going to cover these issues. Immigration is a bit of a third rail in this industry and I'm not going to touch it here either. Tech corporations want the same thing from taxes as all other corporations: not to pay them. There are other people talking about cybersecurity and net neutrality better and more loudly. Instead, I want to go smaller. Actions on the state and regional level often have more impact on our day to day life, and I believe we will see more of them in the future. So, what does tech money care about on a state and regional level?
 
-* overview: http://www.sacbee.com/news/politics-government/article2606285.html
+* [California tech sector now an inside political player](http://www.sacbee.com/news/politics-government/article2606285.html)
 * immigration: http://mashable.com/2014/11/19/tech-moguls-and-corporations-immigration-reform/
 * lobbying http://recode.net/2014/01/24/tech-spending-on-lobbying-jumps/
 * Ro Khanna: http://www.bizjournals.com/sanjose/news/2014/10/29/charting-the-money-trail-in-7-million-honda-khanna.html?page=all
@@ -113,7 +114,7 @@ Another important thing to note is something we *know* about tech companies and 
 
 ***Ron Conway***
 
-No, you weren't going to get 3500 words about tech money in politics without Ron Conway. Ron Conway is an enormously prolific angel inventor. He's made early investments in Airbnb, Google, Paypal, Twitter, Zynga, Facebook, Buzzfeed, Reddit, Pinterest, Mint, Square, and over 650 other tech companies. For a while he was investing in every startup that graduated Y Combinator. Chances are good you've interacted in some way with a Ron Conway investment sometime today.
+No, you weren't going to get 3600 words about tech money in politics without Ron Conway. Ron Conway is an enormously prolific angel inventor. He's made early investments in Airbnb, Google, Paypal, Twitter, Zynga, Facebook, Buzzfeed, Reddit, Pinterest, Mint, Square, and over 650 other tech companies. For a while he was investing in every startup that graduated Y Combinator. Chances are good you've interacted in some way with a Ron Conway investment sometime today.
 
 Perhaps his most impressive purchase to date has been the entire political apparatus of the city of San Francisco. In 2011, he negotiated a massive tax break for several of his portfolio companies, including Twitter and Zynga, in the mid-Market area and decided he liked City Hall so much he'd rather stick around. Conway spent $600,000 getting then-interim Mayor Ed Lee re-elected and went on to heavily fund the campaigns of multiple city supervisors including the president of the Board. He so blatantly bought a recent short-term rental law that competitors to his investment AirBnb are suing the city because they were cut out of the deal. I could probably deliver a different talk every day from now til the end of the decade on Conway's various municipal shenanigans, but there's one I have my eye on in particular.
 
@@ -128,9 +129,9 @@ After the Sandy Hook tragedy, Conway came out charging towards the worthy goal o
 
 Their first challenge focuses on the huge private gun market, but a later challenge has "community safety" as its mission--"community safety," of course, being a euphemism for policing. It's an area that Conway and friends have some experience in. sf.citi, Conway's political consortium, made a widely publicized $100,000 donation to the San Francisco Police Department. The donation was actually paid out to an sf.citi member company to develop an app. Sobieski is an investor in SST, Inc., formerly known as ShotSpotter. ShotSpotter is a network of microphones used to detect gunfire; the system is sold to dozens of cities around the world (including many in the Bay Area) for hundreds of thousands of dollars per year.
 
-It turns out that despite the company's repeated denials, the ShotSpotter system records voice conversations, not just gunshots. This may very well be a feature, not a bug. After all, Oakland is the planned site of the $11M Domain Awareness Center (DAC), a surveillance hub designed to pull data from public and private sensors and cameras into a centralized data processing center for law enforcement. Public records requests have shown that the DAC's intention from the beginning has extended to the monitoring of political protest and it is being designed with an eye towards future integration of additional tools and software.
+It turns out that despite the company's repeated denials, the ShotSpotter system records voice conversations, not just gunshots. This may very well be a feature, not a bug. After all, Oakland is the planned site of the $11M Domain Awareness Center (DAC), a surveillance hub designed to pull data from public and private sensors and cameras into a centralized data processing center for law enforcement. Public records requests have shown that the DAC's purpose from the beginning covered monitoring of political protest and it is being designed with an eye towards future integration of additional tools and software.
 
-The construction and scope of the DAC is bitterly contested and closely watched by privacy activists around the country as a bellwether for trends in municipal surveillance technology. Potential disruptors, investors, and cash-grabbers are watching too. Among others, Google has reached out to the City of Oakland to pitch their surveillance products for the project. [SOMETHING SOMETHING SOMETHING]
+The construction and scope of the DAC is bitterly contested and closely watched by privacy activists around the country as a bellwether for trends in municipal surveillance technology. Potential disruptors, investors, and cash-grabbers are watching too. Among others, Google has reached out to the City of Oakland to pitch their surveillance products for the project. Google's interest would seem to vindicate Conway & others' proclamations that municipal policing is a market waiting to be made.
 
 * http://www.wsj.com/articles/SB10001424127887324392804578358663501313752
 * http://www.forbes.com/sites/netapp/2012/07/25/a-public-private-partnership-turns-san-francisco-police-into-high-tech-super-cops/
@@ -141,5 +142,31 @@ The construction and scope of the DAC is bitterly contested and closely watched 
 * http://www.eastbayexpress.com/oakland/the-real-purpose-of-oaklands-surveillance-center/Content?oid=3789230
 * http://pando.com/2014/03/07/the-google-military-surveillance-complex/
 
-***Get Loud, Stay Woke***
+***Stay Woke, Get Loud***
 
+None of this information is meant to be scolding towards other tech workers; hell, I work for a Y Combinator company now and in my career have probably worked for 75% of the investors mentioned. Everyone in our society makes tradeoffs to pay the bills. As tech workers, though, we seem especially committed to denying any downsides of the tech economy that we live off of. It may well be true that this kind of thing goes on in every industry, but I don't believe the utter denial and lack of cynicism about the graft enriching our field is normal or acceptable. I see a tendency among engineer types to consider politics too "messy" or beneath their intelligence to consider. This is silly--I thought we were good at big systems, guys--but also incredibly naive. When you are determinedly apolitical while your bosses spend the money you generate on political change, you're not impartial; you're being played for a sucker. 
+
+I hear a rumbling from others that they're scared political involvement will threaten their employment. I've felt this too, so I speak with the utmost sympathy when I say, after a lot of consideration, that I think this is mostly cowardice. Most of us are overestimating the risk involved and finding an excuse to do nothing. The ways that our employers encourage us to tie our identities to our workplaces definitely add to this. Certainly some of our peers are actually in a position of risk--H-1B visa holders, whose residence in the U.S. depends on their employers goodwill, are the most glaring example. That's all the more reason for the rest of us to speak up where they can't. 
+
+If I'm wrong, then we are in danger of being fired or made unhireable by fulfilling our basic civic responsibilities of keeping ourselves informed and participating in shaping our communities. If that's the case, we should be hollering to the skies to change the status quo. Those are not acceptable working conditions.
+
+I originally planned to start this talk with a moment of silence (inspired by [Daira Hopwood's gesture](https://www.youtube.com/watch?v=oPeo0upCGqo) at Strange Loop.) As I considered many possible recent tragedies that moment might recognize, I realized it felt wrong. There's been enough silence from the tech community. We should be paying better attention to the changes wrought with our labor and we should be making more noise.
+
+***What now?***
+
+Let's start by being better informed. I grew up in SF and my family lives here, so a big chunk of my social network is longtime Bay Area residents of varying levels of civic engagement. Stories about tech money shaping the local landscape circulate through that part of my network quite frequently. For whatever reasons, I rarely see those stories make it through the filter bubble to my tech network. This presentation didn't involve original research; there are many excellent journalists covering these issues. Here's a very incomplete list, with (pretty arbitrary) links to important stories:
+
+* [Susie Cagle](http://susie-c.tumblr.com/) ([@susie_c](https://twitter.com/susie_c))
+    * [How San Francisco sold a majority stake to tech](http://america.aljazeera.com/opinions/2014/11/san-francisco-techindustryhousingtwitterairbnbuber.html)
+* [Kate Conger](http://kateconger.tumblr.com/) ([@kateconger](https://twitter.com/kateconger))
+    * [Politics as Incubator: The Venture Capital Model Finds the Ballot](http://www.sfweekly.com/sanfrancisco/election-issue-2014-ron-conway-sean-parker/Content?oid=3213457)
+* [Darwin Bond Graham](https://darwinbondgraham.wordpress.com/) ([@DarwinBondGraha](https://twitter.com/darwinbondgraha))
+    * [All Tomorrow's Crimes: The Future of Policing Looks a Lot Like Good Branding](http://www.sfweekly.com/2013-10-30/news/predpol-sfpd-predictive-policing-compstat-lapd/) (with [Ali Winston](http://cironline.org/person/ali-winston))
+* Joe Fitzgerald Rodriguez ([@FitzTheReporter](https://twitter.com/fitzthereporter))
+    * [Mission Improbable: City College May Soon Close. And If It Doesn't, It May Never Be the Same. ](http://www.sfweekly.com/sanfrancisco/city-college-san-francisco-community-college-education/Content?oid=3289247)
+* [Audrey Watters](http://audreywatters.com/) ([@audreywatters](https://twitter.com/audreywatters))
+    * [Ed-Tech Year in Review: There’s little to no evidence that more technology or more data-mining will “fix” education.](https://modelviewculture.com/pieces/ed-tech-year-in-review)
+* [Julia Carrie Wong](http://juliacarriewong.com/) ([@juliacarriew](https://twitter.com/juliacarriew))
+    * [Dropbox, Airbnb, and the Fight Over San Francisco’s Public Spaces](http://www.newyorker.com/tech/elements/dropbox-airbnb-fight-san-franciscos-public-spaces)
+	
+Please contribute others in the comments!
