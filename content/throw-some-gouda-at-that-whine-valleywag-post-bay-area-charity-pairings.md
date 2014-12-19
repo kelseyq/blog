@@ -1,6 +1,6 @@
 Title: Throw Some Gouda at that Whine: Valleywag Post + Bay Area Charity Pairings
 Date: 2013-12-12 15:39
-Slug: throw-some-gouda-at-that-whine-valleywag-post-bay-area-charity-pairings
+Slug: throw-some-gouda-at-that-whine-valleywag-post-plus-bay-area-charity-pairings
 
 I love the spiteful tingle I get from reading on
 [Valleywag](http://valleywag.gawker.com/) about the latest gross

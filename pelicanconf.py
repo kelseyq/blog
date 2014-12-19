@@ -44,7 +44,6 @@ LOAD_CONTENT_CACHE = False
 
 SITESUBTITLE = "KGI"
 SITETAGLINE = "blog blog blog"
-DISQUS_SITENAME = "kelseynerd"
 TWITTER_USERNAME = "kelseyinnis"
 
 READ_MORE_LINK = '<span>Read more</span>'

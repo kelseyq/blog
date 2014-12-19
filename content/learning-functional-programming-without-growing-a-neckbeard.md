@@ -1,6 +1,6 @@
 Title: Learning Functional Programming Without Growing a Neckbeard
 Date: 2012-12-17 19:30
-Slug: learning-functional-programming-without-growing-a-neckbeard
+Slug: slides-from-learning-functional-programming-without-growing-a-neckbeard
 
 I gave a beginning functional programming talk called [Learning Functional Programming without Growing a
 Neckbeard](https://marakana.com/s/post/1354/learning_functional_programming_scala_video)

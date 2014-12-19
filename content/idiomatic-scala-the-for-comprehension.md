@@ -81,37 +81,37 @@ into this:
 We learned about Option and turned this:
 
 <center>
-![](http://nerd.kelseyinnis.com/images/fakeOption.png)
+![](/images/fakeOption.png)
 </center>
 
 into:
 
 <center>
-![](http://nerd.kelseyinnis.com/images/optionforyield.png)
+![](/images/optionforyield.png)
 </center>
 
 We handled exceptions by wrapping code in a Try, making:
 
 <center>
-![](http://nerd.kelseyinnis.com/images/exceptionhandling.png)
+![](/images/exceptionhandling.png)
 </center>
 
 look like:
 
 <center>
-![](http://nerd.kelseyinnis.com/images/tryforyield.png)
+![](/images/tryforyield.png)
 </center>
 
 Finally, we chained long-running asynchronous calls while avoiding
 cumbersome callbacks with Future:
 
 <center>
-![](http://nerd.kelseyinnis.com/images/withfutures.png)
+![](/images/withfutures.png)
 
 </center>
 
 <center>
-![](http://nerd.kelseyinnis.com/images/futureforyield.png)
+![](/images/futureforyield.png)
 </center>
 
 If you’re ready to learn more about functional programming, check out my

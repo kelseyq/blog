@@ -1,6 +1,6 @@
 Title: Talking to Yourself: A Twitter Bot in Clojure as a Total Newb
 Date: 2014-05-06 20:04
-Slug: talking-to-yourself-a-twitter-bot-in-clojure-as-a-total-newb
+Slug: talking-to-yourself-a-twitter-bot-in-clojure-by-a-total-newb
 
 <style>
 .codehilitetable {
@@ -255,7 +255,7 @@ reply method and map over the result set with it:
 We can now ask our bot the fateful question, and upon running our
 program …
 
-![](http://nerd.kelseyinnis.com/images/ciki.png)
+![successful tweet](/images/ciki.png)
 
 Hooray!
 

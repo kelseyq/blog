@@ -10,15 +10,14 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'nerd'
-RELATIVE_URLS = False
+SITEURL = 'http://nerd.kelseyinnis.com'
+RELATIVE_URLS = True
+LOAD_CONTENT_CACHE = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = "kelseynerd"
+GOOGLE_ANALYTICS = "UA-31335960-1"
