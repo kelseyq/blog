@@ -12,30 +12,19 @@ So, Nu Valleywag is basically over, but the outrage reads (and [actual investiga
 
 [Blue Bottle, Which Raised $45 M, Cut Health Benefits for Part-Timers](http://valleywag.gawker.com/blue-bottle-which-raised-45-m-cut-health-benefits-fo-1663442765): Part-time workers comprise an increasingly large portion of the employed in this country yet enjoy almost no workplace protections. Just this month, though, San Francisco adopted a groundbreaking [Retail Workers' Bill of Rights](http://www.jwj.org/everything-you-need-to-know-about-san-franciscos-retail-workers-bill-of-rights) that bans abusive scheduling practices commonly applied to part-time workers. That bill and others, including the new $15 minimum wage, was championed by **[Jobs With Justice SF](http://jwjsf.org/)**, a coalition of local labor & community groups.
 	
-[Clinkle Is Bribing College Students With a Vending Machine Full of Cash](http://valleywag.gawker.com/clinkle-is-bribing-college-students-with-a-vending-mach-1663325836): 
-	http://scholarmatch.org/
-	https://www.summersearch.org/OurProgram
-	http://www.firstplaceforyouth.org/
+[Clinkle Is Bribing College Students With a Vending Machine Full of Cash](http://valleywag.gawker.com/clinkle-is-bribing-college-students-with-a-vending-mach-1663325836): Of *course* desperate Clinkle headed to a college campus to bribe prospective customers--college is expensive! Both **[Summer Search](https://www.summersearch.org)** and **[ScholarMatch](ScholarMatch)** provide low-income Bay Area high school students with comprehensive social, community and financial support to get to and then succeed in college.
 
-http://valleywag.gawker.com/tech-companies-stoke-fears-of-talent-shortage-to-get-ch-1662646170
+[Tech Companies Stoke Fears of a Talent Shortage to Get Cheaper Labor](http://valleywag.gawker.com/tech-companies-stoke-fears-of-talent-shortage-to-get-ch-1662646170): Look, we need immigration reform in this country. But we also need to be wary of rich businessmen bearing dubious gifts. Some reasons why the tech industry's push for expanding the H-1B visa program is shady:
 
-	SF ILEN: http://sfilen.org/donate/
-	their network: http://sfilen.org/about-us/our-network/
-	mention La Colectiva & SF Day Labor
-	http://www.upwardlyglobal.org/
+* It doesn't provide a path for skilled immigrants to make a permanent home in the U.S. **[Upwardly Global](http://www.upwardlyglobal.org/)** connects educated & skilled refugees & asylum seekers with the preparation and employer access they need to integrate into the U.S. workforce and put their sorely needed skills to work.
+* It doesn't help the millions of hard-working undocumented immigrants currently in our country whose sweat and blood power many industries, including tech company's physical campuses. The **[San Francisco Immigrant Legal & Education Network](http://sfilen.org)**, a coalition of 13 immigrant service providers and legal advocacy organizations, provides free legal assistance and education to low-income immigrants from African and Afro-Caribbean, Arab, Asian, and Latino communities. The network is a project of **[Dolores Street Community Services](http://www.dscs.org/)**, which also runs the immigrant-centered fair labor programs **[The SF Day Labor Program](http://sfdaylabor.weebly.com/)** and **[La Colectiva](http://lacolectivasf.org/)**. I highly recommend them if you need day laborers or house cleaners--I'm not just a blogger, I'm also a satisfied La Colectiva customer!
+* Finally, it's disingenous to proclaim a talent shortage when the tech industry has systemically excluded untold numbers of smart and capable potential American tech workers who happen to be people of color. 80% of **[The Stride Center](http://stridecenter.org/)**'s students are people of color, and an overwhelming majority of graduates from their technical certification & internship programs go on to well-paying IT jobs.
 	
-	http://www.stridecenter.org/about/social-impact/
-	http://code2040.org/
+[Airbnb Thinks It Should Win the Nobel Peace Prize](http://valleywag.gawker.com/airbnb-thinks-it-should-win-the-nobel-peace-prize-1661900628) & [Airbnb Had Housing Activists Pushed Into a "Free Speech Zone"](http://valleywag.gawker.com/airbnb-had-housing-activists-pushed-into-a-free-speech-1662804595): This one is easy--**[Tenants Together](http://www.tenantstogether.org/)** and the **[SF Tenants Union](http://sftu.org/)** have worked tirelessly for years to protect tenants' rights in the Bay Area and California, including working to prevent San Franciscans from being evicted to turn housing stock into short-term rentals. Another organization working hard to keep residents in their homes and communities intact is **[Causa Justa::Just Cause](http://www.cjjc.org/en)**, which fights Black & Latino displacement in the Bay Area on multiple fronts.
 	
-http://valleywag.gawker.com/airbnb-had-housing-activists-pushed-into-a-free-speech-1662804595
-http://valleywag.gawker.com/airbnb-thinks-it-should-win-the-nobel-peace-prize-1661900628
-	tenants together: http://www.tenantstogether.org/
-	sf tenants union: http://sftu.org/
-	http://www.cjjc.org/en
-	
-http://valleywag.gawker.com/list-of-salaries-for-interns-who-can-code-will-burn-you-1662712997
+[List of Salaries For Interns Who Can Code Will Burn Your Eyeballs](http://valleywag.gawker.com/list-of-salaries-for-interns-who-can-code-will-burn-you-1662712997): The $7500 plus housing stipend that each Amazon or Pinterest college intern makes could support a whole lot of 19-20 year olds. 
 	http://www.larkinstreetyouth.org/
-	http://lyric.org/
+	http://www.firstplaceforyouth.org/
 
 http://valleywag.gawker.com/fab-may-sell-for-a-pittance-while-ex-founder-abandons-f-1661712748
 	Creativity Explored: http://www.creativityexplored.org/
@@ -44,7 +33,6 @@ http://valleywag.gawker.com/billboards-of-semi-nude-brogrammers-are-lining-silic
 	http://stjamesinfirmary.org/ (shout out Maggie)
 
 http://valleywag.gawker.com/male-startup-founders-think-your-vagina-should-smell-li-1660896761
-	http://www.sfcityclinic.org/
 	http://sfsi.org/donate/
 
 http://valleywag.gawker.com/will-facebook-really-let-its-bus-drivers-unionize-1660857695
@@ -55,4 +43,5 @@ The [picks from last year](http://nerd.kelseyinnis.com/blog/2013/12/12/throw-som
 	http://prosperacoops.org/what-we-do
 	
 	http://www.sfccc.org/donate
+	http://www.sfcityclinic.org/
 
