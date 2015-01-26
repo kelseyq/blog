@@ -1,6 +1,6 @@
-Title: 28 GIFs Only ScalaCheck Witches Will Understand
-Date: 2015-01-13 09:00
-Slug: 28-GIFs-only-scalacheck-witches-will-understand
+Title: 29 GIFs Only ScalaCheck Witches Will Understand
+Date: 2015-01-14 10:00
+Slug: 29-GIFs-only-scalacheck-witches-will-understand
 
 <style>
 article img {
@@ -10,7 +10,7 @@ article img {
 }
 </style>
 
-<b>Because your attention span.</b> [Stew O'Connor](http://stew.vireo.org/) and I recently gave a talk on [ScalaCheck](http://www.scalacheck.org/), the property-based testing library for Scala. You can watch the [video](http://www.infoq.com/presentations/scalacheck-magic), or absorb it here in the Internet's Truest Form. Here are 28 GIFs you have to be a total ScalaCheck witch to get:
+<b>Because your attention span.</b> [Stew O'Connor](http://stew.vireo.org/) and I recently gave a talk on [ScalaCheck](http://www.scalacheck.org/), the property-based testing library for Scala. You can watch the [video](http://www.infoq.com/presentations/scalacheck-magic), or absorb it here in the Internet's Truest Form. Here are 29 GIFs you have to be a total ScalaCheck witch to get:
 
 #### 1. ScalaCheck is black magick...
 ![](/images/scalacheck/geniebottle.gif)
@@ -25,19 +25,19 @@ Scalacheck automatically generates many, many inputs and then automatically veri
 
 #### 4. It's got a serious background:
 ![](/images/scalacheck/background.gif)
-The library takes inspiration and its name from Haskell's [QuickCheck](http://hackage.haskell.org/package/QuickCheck), and uses the types of your input data to infer how to generate examples.
+The library takes inspiration and its name from Haskell's [QuickCheck](http://hackage.haskell.org/package/QuickCheck), and uses the types of your input data to infer how to generate examples. ScalaCheck is used by many major Scala open source projects like [Akka](https://github.com/akka/akka/blob/master/akka-actor-tests/src/test/scala/akka/dispatch/FutureSpec.scala) and  [Play](https://github.com/playframework/playframework/blob/master/framework/src/play-integration-test/src/test/scala/play/it/http/parsing/BodyParserSpec.scala), and even by the [Scala compiler itself](https://github.com/scala/scala/tree/2.11.x/test/files/scalacheck).
 
 #### 5. Good things come in threes:
 ![](/images/scalacheck/sabrina3.gif)
-ScalaCheck **generates** input, takes these inputs and **verifies** properties on them, then if it finds failures **shrinks** the failure space to the smallest possible set of failing inputs.
+ScalaCheck **generates** input, takes these inputs and **verifies** properties on them, then if it finds failures **shrinks** the failure space to the smallest possible set of failing inputs. See all three happening in [this simple example](https://gist.github.com/kelseyq/d4a2c73a41609c563ad1#file-gistfile1-scala).
 
 #### 6. You get a lot of functionality right out of the bottle:
 <img alt="" src="/images/scalacheck/xtina.gif" style="width:inherit"><br/>
-There are provided input generators for primitive types, Throwable, Date, tuples, functions, and many types of containers including Option, List, and Map. 
+There are [provided input generators](http://www.scalacheck.org/files/scalacheck_2.11-1.12.1-api/index.html#org.scalacheck.Arbitrary$) for primitive types, Throwable, Date, tuples, functions, and many types of containers including Option, List, and Map. 
 
 #### 7. To say nothing of your little helpers:
 ![](/images/scalacheck/crow.gif)
-You can also make use of provided helper functions like `posNum` and `alphaNumChar`.
+You can also make use of helper functions like `posNum` and `alphaNumChar`, which [fix](https://gist.github.com/kelseyq/d4a2c73a41609c563ad1#file-gistfile2-scala) our earlier example.
 
 #### 8. Dare to live on the edge:
 ![](/images/scalacheck/edge.gif)
@@ -45,11 +45,11 @@ It's important to cover edge cases in your automated tests. The provided generat
 
 #### 9. Sometimes it's time to get fancy:
 ![](/images/scalacheck/glinda.gif)
-`.oneOf`, `.someOf`, `.pick` and other [methods on Gen](http://www.scalacheck.org/files/scalacheck_2.11-1.12.1-api/index.html#org.scalacheck.Gen$) allow you to get specific with your input data.
+`.oneOf`, `.someOf`, `.pick` and other [methods on Gen](http://www.scalacheck.org/files/scalacheck_2.11-1.12.1-api/index.html#org.scalacheck.Gen$) allow you to get specific with your input data ([example](https://gist.github.com/kelseyq/d4a2c73a41609c563ad1#file-gistfile3-scala)).
 
 #### 10. It slices! It dices!
 ![](/images/scalacheck/blender.gif)
-You can also compose generators using `.map`, `.flatMap`, and `.filter` (also aliased as 	`.suchThat`.) These three methods mean you can build generators using a [for-yield](http://nerd.kelseyinnis.com/blog/2013/11/12/idiomatic-scala-the-for-comprehension/). For a powerful example, check out this [recursive JSON generator](http://etorreborre.blogspot.com/2011/02/scalacheck-generator-for-json.html).
+You can also compose generators using `.map`, `.flatMap`, and `.filter` (also aliased as 	`.suchThat`.) These three methods mean you can build generators using a [for-yield](http://nerd.kelseyinnis.com/blog/2013/11/12/idiomatic-scala-the-for-comprehension/). For a powerful example, check out this [recursive JSON generator](http://etorreborre.blogspot.com/2011/02/scalacheck-generator-for-json.html); for a sillier example, see [here](https://gist.github.com/kelseyq/d4a2c73a41609c563ad1#file-gistfile4-scala).
 
 #### 11. You've got to be careful with .suchThat...
 ![](/images/scalacheck/lighter.gif)
@@ -57,7 +57,7 @@ You can also compose generators using `.map`, `.flatMap`, and `.filter` (also al
 
 #### 12. ...for more than one reason.
 <img alt="" src="/images/scalacheck/witchcomputer.gif" style="width:inherit">
-More philosophically, you want to be sure you’re enforcing the condition you're filtering your input data on somewhere. You might assume all of your users' ages will be under 120, but witches can live to over 300 years old!
+More philosophically, you want to be sure you’re enforcing the condition you're filtering your input data on somewhere. Your generator might assume all of your users' ages will be under 120, but witches can live to over 300 years old!
 
 #### 13. Sometimes the standard distribution isn't quite what you're looking for:
 ![](/images/scalacheck/frequency.png)
@@ -85,7 +85,7 @@ Cases where you can exhaust the entire test space are rare. Usually, you're limi
 
 #### 19. Spin it right round:
 ![](/images/scalacheck/roundtrip.gif)
-If you're encoding & decoding, roundtrip properties are an elegant way to test both methods: take a generated input, encode it then decode the encoded value and verify that the result equals the original input.
+If you're encoding & decoding, [roundtrip properties](https://gist.github.com/kelseyq/d4a2c73a41609c563ad1#file-gistfile5-scala) are an elegant way to test both methods: take a generated input, encode it then decode the encoded value and verify that the result equals the original input.
 
 #### 20. Invalid inputs are just as important to test as valid ones:
 ![](/images/scalacheck/cyanide.gif)
@@ -101,7 +101,7 @@ ScalaCheck's input-output model is meant for testing functions, but the framewor
 
 #### 23. It only gets cooler from there:
 ![](/images/scalacheck/ooh.gif)
-Rickard Nilsson, the creator of ScalaCheck, uses the command model with [Nix](https://nixos.org/nix/), the functional build tool, to test server networks. He generates VMs with randomly generated memory, OS versions, and IP addresses and uses commands to test what happens when they ping each other.
+Rickard Nilsson, the creator of ScalaCheck, uses the command model with [Nix](https://nixos.org/nix/), the functional build tool, to [test server networks](https://github.com/rickynils/scalacheck/tree/master/examples/commands-nix). He generates VMs with randomly generated memory, OS versions, and IP addresses and uses commands to test what happens when they ping each other.
 
 #### 24. Property-based testing scales up:
 ![](/images/scalacheck/network.gif)
@@ -121,3 +121,7 @@ Besides the aforementioned [QuickCheck](https://hackage.haskell.org/package/Quic
 
 #### 28. Thank you so much, you've been wonderful.
 ![](/images/scalacheck/fairuza.gif)
+
+#### 29. Bonus magick GIF:
+![](/images/scalacheck/magick.gif)
+I just think this one is cool.
