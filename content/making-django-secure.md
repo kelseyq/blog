@@ -37,6 +37,7 @@ Here are some resources that we used in making [Callisto](https://www.projectcal
 
 ***Your second biggest threat is who you're trying to protect***
 
+* [CyLab Usable Privacy and Security Laboratory (CUPS)](https://cups.cs.cmu.edu/) (smorgasbord of academic research on password usability & security)
 * [Dropbox's zxcvbn](https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/)
 * [Sane Password Strength Validation for Django with zxcvbn](http://birdhouse.org/blog/2015/06/16/sane-password-strength-validation-for-django-with-zxcvbn/comment-page-1/)
 * [django-zxcvbn-password](https://github.com/Pawamoy/django-zxcvbn-password)
@@ -48,9 +49,11 @@ Here are some resources that we used in making [Callisto](https://www.projectcal
 
 * [The State of Crypto in Python](https://www.youtube.com/watch?v=r_Pj__qjBvA) (video)
 * [PyNaCL](https://pynacl.readthedocs.org/) & [python-gnupg](https://python-gnupg.readthedocs.org)
+* [requires.io](https://requires.io/) for automated help with patch management
 
 ***Pay someone smarter***
 
+* Ask your friends for recs! (or [me](mailto:blog@kelseyinnis.com) if you want)
 * [OWASP Top 10 Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
 
 ***Thank someone smarter***
