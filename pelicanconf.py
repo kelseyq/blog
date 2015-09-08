@@ -38,7 +38,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 THEME = "./themes/SoMA2"
 MD_EXTENSIONS = ['codehilite(linenums = True)']
-PLUGIN_PATHS = ['/Users/hbic/code/pelican-plugins']
+PLUGIN_PATHS = ['/Users/home/code/pelican-plugins']
 PLUGINS = ['read_more_link', 'share_post']
 LOAD_CONTENT_CACHE = False
 
