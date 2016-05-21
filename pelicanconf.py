@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kelsey Gilmore-Innis'
 SITENAME = u'blog blog blog'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -44,7 +44,7 @@ LOAD_CONTENT_CACHE = False
 
 SITESUBTITLE = "KGI"
 SITETAGLINE = "blog blog blog"
-TWITTER_USERNAME = "kelseyinnis"
+TWITTER_USERNAME = "_K_E_L_S_E_Y"
 
 READ_MORE_LINK = '<span>Read more</span>'
 READ_MORE_LINK_FORMAT = '<div class="navButton"><a href="/{url}">{text}</a></div>'
